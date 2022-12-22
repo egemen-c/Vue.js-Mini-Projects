@@ -73,6 +73,7 @@ button {
   font-size: 16px;
   border: none;
   border-radius: 3px;
+  cursor: pointer;
 }
 label {
   font-size: 12px;
