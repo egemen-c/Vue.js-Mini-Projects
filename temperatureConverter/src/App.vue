@@ -52,8 +52,8 @@ function celciusToF(degree) {
 <style>
 /* böyle css yazacaksan yazma be egemen. */
 body {
-  min-width: 90%;
-  min-height: 90vh;
+  min-width: 100%;
+  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -73,7 +73,6 @@ button {
   font-size: 16px;
   border: none;
   border-radius: 3px;
-  margin-left: 10px;
 }
 label {
   font-size: 12px;
@@ -83,9 +82,6 @@ input,
 select {
   padding: 5px;
   border: 1px solid rgb(201, 201, 201);
-}
-select {
-  margin-left: 10px;
 }
 span {
   font-size: 16px;
